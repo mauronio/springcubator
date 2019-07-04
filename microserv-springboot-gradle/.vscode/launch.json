@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Controlador",
+            "request": "launch",
+            "mainClass": "Controlador",
+            "projectName": "microserv-springboot-gradle"
+        }
+    ]
+}
